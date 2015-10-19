@@ -17,7 +17,7 @@ multi method stringify(Array[Pair] @multi-key-values) returns Str {
 
 =head1 NAME
 
-Text::LTSV - LTSV (Labelled Tab Separated Value) builder
+Text::LTSV - LTSV (Labelled Tab Separated Value) toolkit
 
 =head1 SYNOPSIS
 

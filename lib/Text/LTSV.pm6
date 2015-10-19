@@ -17,7 +17,7 @@ multi method stringify(Array[Pair] @multi-key-values) returns Str {
 
 =head1 NAME
 
-Text::LTSV - LTSV (Labelled Tab Separated Value) toolkit
+Text::LTSV - LTSV (Labeled Tab Separated Value) toolkit
 
 =head1 SYNOPSIS
 
@@ -46,7 +46,7 @@ Text::LTSV - LTSV (Labelled Tab Separated Value) toolkit
 
 =head1 DESCRIPTION
 
-Text::LTSV is a builder for L<LTSV (Labelled Tab Separated Values)|http://ltsv.org/>.
+Text::LTSV is a builder for L<LTSV (Labeled Tab Separated Values)|http://ltsv.org/>.
 
 =head1 METHODS
 

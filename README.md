@@ -3,7 +3,7 @@
 NAME
 ====
 
-Text::LTSV - LTSV (Labelled Tab Separated Value) toolkit
+Text::LTSV - LTSV (Labeled Tab Separated Value) toolkit
 
 SYNOPSIS
 ========
@@ -34,7 +34,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-Text::LTSV is a builder for [LTSV (Labelled Tab Separated Values)](http://ltsv.org/).
+Text::LTSV is a builder for [LTSV (Labeled Tab Separated Values)](http://ltsv.org/).
 
 METHODS
 =======

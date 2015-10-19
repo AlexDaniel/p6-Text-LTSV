@@ -60,7 +60,7 @@ method parse-text(Text::LTSV::Parser:D: Str $text) returns Array[Array[Pair]] {
 
 =head1 NAME
 
-Text::LTSV::Parser - LTSV (Labelled Tab Separated Value) parser
+Text::LTSV::Parser - LTSV (Labeled Tab Separated Value) parser
 
 =head1 SYNOPSIS
 
@@ -81,7 +81,7 @@ Text::LTSV::Parser - LTSV (Labelled Tab Separated Value) parser
 
 =head1 DESCRIPTION
 
-Text::LTSV::Parser is a parser for L<LTSV (Labelled Tab Separated Values)|http://ltsv.org/>.
+Text::LTSV::Parser is a parser for L<LTSV (Labeled Tab Separated Values)|http://ltsv.org/>.
 
 =head1 METHODS
 

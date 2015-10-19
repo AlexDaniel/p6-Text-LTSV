@@ -8,7 +8,7 @@
     "Text::LTSV" : "lib/Text/LTSV.pm6"
   },
   "depends" : [ ],
-  "description" : "LTSV (Labelled Tab Separated Value) toolkit",
+  "description" : "LTSV (Labeled Tab Separated Value) toolkit",
   "test-depends" : [ ],
   "version" : "*",
   "authors" : [
